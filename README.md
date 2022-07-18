@@ -73,7 +73,7 @@ In line with previous analysis, removing the ninth grade population from Thomas 
 
 ![spending2](Resources/spending_2.png)
 
-** A quick note here, you'll notice that the initial averages are wildly wrong.  The PyCitySchools_with_bugs.ipynb file is included in the repository to show where I tried unsuccesfuly to debug the errors. **
+***A quick note here, you'll notice that the initial Passing Math and Passing Reading Percentages are wildly off.  The PyCitySchools_with_bugs.ipynb file is included in the repository to show where I tried unsuccesfuly to debug the errors.***
 
 ### Scores by school size:
 The same approach was taken to sort schools into bins to represent small, medium and large sizes.  Here too, removing the ninth graders from Thomas High School has an almost imprtcentable change at the district-level.  
